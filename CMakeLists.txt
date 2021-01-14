@@ -6,7 +6,7 @@ add_executable(kolokwium src/tests_main.cpp
         src/zad2.cpp
         src/zad3.cpp
         src/zad4.cpp
-#        src/zad5.cpp
+        src/zad5.cpp
         )
 
 set_target_properties(kolokwium PROPERTIES CXX_STANDARD 17)
